@@ -1,0 +1,3 @@
+*.class
+*.o
+node_modules
